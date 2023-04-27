@@ -15,7 +15,3 @@ function multiply(a, b){
 function divide_free(a,b){
 	return a/b
 }
-
-function squar(a){
-	a*a
-}
